@@ -1,0 +1,137 @@
+PODS:
+  - "app_settings (3.0.0+1)":
+    - Flutter
+  - background_location (0.0.1):
+    - Flutter
+  - downloads_path_provider_28 (0.0.1):
+    - Flutter
+  - esys_flutter_share (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_foreground_plugin (0.0.1):
+    - Flutter
+  - flutter_html_to_pdf (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - geocoder (0.0.1):
+    - Flutter
+  - geolocator (6.2.0):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - launch_review (0.0.1):
+    - Flutter
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (4.4.0+hotfix.4)":
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - Toast (4.0.0)
+  - url_launcher (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - app_settings (from `.symlinks/plugins/app_settings/ios`)
+  - background_location (from `.symlinks/plugins/background_location/ios`)
+  - downloads_path_provider_28 (from `.symlinks/plugins/downloads_path_provider_28/ios`)
+  - esys_flutter_share (from `.symlinks/plugins/esys_flutter_share/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_foreground_plugin (from `.symlinks/plugins/flutter_foreground_plugin/ios`)
+  - flutter_html_to_pdf (from `.symlinks/plugins/flutter_html_to_pdf/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - launch_review (from `.symlinks/plugins/launch_review/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Toast
+
+EXTERNAL SOURCES:
+  app_settings:
+    :path: ".symlinks/plugins/app_settings/ios"
+  background_location:
+    :path: ".symlinks/plugins/background_location/ios"
+  downloads_path_provider_28:
+    :path: ".symlinks/plugins/downloads_path_provider_28/ios"
+  esys_flutter_share:
+    :path: ".symlinks/plugins/esys_flutter_share/ios"
+  Flutter:
+    :path: Flutter
+  flutter_foreground_plugin:
+    :path: ".symlinks/plugins/flutter_foreground_plugin/ios"
+  flutter_html_to_pdf:
+    :path: ".symlinks/plugins/flutter_html_to_pdf/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  launch_review:
+    :path: ".symlinks/plugins/launch_review/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  app_settings: d103828c9f5d515c4df9ee754dabd443f7cedcf3
+  background_location: 1b80c1fe3abd9912bca298618f6e365abf6f588f
+  downloads_path_provider_28: 7425048683ec0b86238361bd93795e91c2bc61a2
+  esys_flutter_share: 403498dab005b36ce1f8d7aff377e81f0621b0b4
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_foreground_plugin: 685583f00ade6168e38f08fd11d6cc0402ebb975
+  flutter_html_to_pdf: 0fd9f8d04f335d68b06a7c4ab5fc85d22e1ef91b
+  fluttertoast: 16fbe6039d06a763f3533670197d01fc73459037
+  geocoder: 3cfab70531a0b367e917bafe82df4c30f6d4c45a
+  geolocator: f5e3de65e241caba7ce3e8a618803387bda73384
+  image_picker: 9c3312491f862b28d21ecd8fdf0ee14e601b3f09
+  launch_review: 75d5a956ba8eaa493e9c9d4bf4c05e505e8d5ed0
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  permission_handler: 8278954f2382902f63f00dd8828769c0bd6d511b
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  video_player_avfoundation: e489aac24ef5cf7af82702979ed16f2a5ef84cff
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+  webview_flutter: 5fb4def2bbd4339889ee14d045b605cefc5bc232
+
+PODFILE CHECKSUM: fe0e1ee7f3d1f7d00b11b474b62dd62134535aea
+
+COCOAPODS: 1.10.1
